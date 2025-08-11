@@ -26,9 +26,3 @@ python femojis.py file1.txt /path/to/directory file2.py
 
 - Scans text files (skips binary files and hidden directories)
 - Removes all Unicode emoji characters
-- Overwrites original files
-- Shows count of emojis destroyed per file
-
-## Requirements
-
-Python 3.6+
