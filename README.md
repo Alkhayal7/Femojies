@@ -1,6 +1,6 @@
 # F$@# Emoji
 
-Removes all emojis from text files.
+Removes all emojis from files.
 
 ## Usage
 
