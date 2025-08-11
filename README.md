@@ -1,4 +1,4 @@
-# F$@# Emoji
+# F$@# Emojis
 
 Removes all emojis from files.
 
