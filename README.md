@@ -8,8 +8,6 @@
                                                                                         
 
 
-Removes all emojis from files.
-
 ## Usage
 
 ```bash
